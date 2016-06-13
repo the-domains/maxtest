@@ -1,7 +1,7 @@
 name: 'MaxTest '
 favicon: null
-layout_spectrum: 0.5841148560866714
-typography_spectrum: 0.7098373244516551
+layout_spectrum: 1
+typography_spectrum: 0.18406
 cta:
   domain: null
   bucket: null
