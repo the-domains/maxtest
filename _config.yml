@@ -1,0 +1,28 @@
+name: 'MaxTest '
+favicon: null
+layout_spectrum: 0.5841148560866714
+typography_spectrum: 0.7098373244516551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2803584279026836
+  lightness: 0.90094432560727
+  saturation: 0.024267050437629223
+  rhythmicContrast: 0.6822552629746497
+purpose: []
