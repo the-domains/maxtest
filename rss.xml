@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MaxTest ]]></title>
         <description><![CDATA[MaxTest ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 01:26:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 01:31:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31783a47-6874-45c0-81c0-de3399fe7efe.jpg">]]></description>
+            <link>https://thegrid.ai/maxtest/sdafsdaf/index.html</link>
+            <guid isPermaLink="false">fd369d8c-5e80-450c-a3aa-1db7a83d5187</guid>
+            <pubDate>Mon, 13 Jun 2016 01:31:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>hi max</p>]]></description>
-            <link>undefinedhi-max/index.html</link>
+            <link>https://thegrid.ai/maxtest/hi-max/index.html</link>
             <guid isPermaLink="false">7f78388d-f275-466e-9ba8-fc25021dcf32</guid>
             <pubDate>Mon, 13 Jun 2016 01:26:08 GMT</pubDate>
         </item>
